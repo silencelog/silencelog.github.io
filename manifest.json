@@ -1,0 +1,24 @@
+{
+  "name": "Silencelog",
+  "short_name": "ycl",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "Silencelog Blog",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./logo.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "play"
+    }
+  ]
+}
